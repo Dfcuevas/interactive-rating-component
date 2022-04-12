@@ -1,0 +1,13 @@
+.container {
+  background-color: var(--very-dark-blue);
+  padding: 25px;
+  border-radius: 25px;
+  max-width: 400px;
+}
+
+.star__icon {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: var(--dark-blue);
+  margin-bottom: 20px;
+}
