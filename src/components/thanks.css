@@ -1,0 +1,33 @@
+.thanks__container {
+  background-color: var(--very-dark-blue);
+  padding: 45px 40px;
+  border-radius: 35px;
+  max-width: 350px;
+  text-align: center;
+}
+.container__image img {
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.span__rating {
+  display: inline-block;
+  color: var(--orange);
+  background-color: var(--dark-blue);
+  padding: 6px 15px;
+  border-radius: 15px;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}
+
+.thanks__container h2 {
+  color: white;
+  margin-bottom: 15px;
+}
+
+.thanks__container p {
+  margin: 0;
+  color: var(--medium-grey);
+  line-height: 1.5;
+  font-size: 0.8rem;
+}
